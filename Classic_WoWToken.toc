@@ -1,0 +1,7 @@
+## Interface: 90005
+## Author: Martos
+## Version: 1.0
+## Title: |cffff8000Classic_WoWToken|r
+## Notes: Plugin for wow token progress bar
+
+Init.lua
